@@ -1,0 +1,58 @@
+body {
+    background-image: url('../image/universo.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.cabecalho {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+
+h3 {
+   color:#fff;
+   text-align: center;
+   margin-bottom: 20px;
+   font-family: Arial, Helvetica, sans-serif; 
+}
+
+.container, label {
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #faebd7;
+}
+
+.container {
+    padding-top: 50px;
+    text-align: center; 
+}
+
+input {
+    height: 25px;
+    width: 200px;
+}
+
+button {
+    width: 90px;
+    height: 25px;
+    background-color: #faebd7;
+}
+
+button:hover {
+    background-color: #8aebe2;
+    color: #f00;
+}
+
+a {
+    text-decoration: none;
+    color: #00f;
+}
+
+a:hover {
+    background-color: #8aebe2;
+    color: #f00;
+}
